@@ -61,7 +61,7 @@ The therapeutic chair was designed to deliver controlled lumbar traction while m
 * clinician-informed ergonomics
 
 
-![Traction chair overview](assets/images/Traction_Chair.png)
+![Traction chair overview](assets/images/Traction_Chair.jpg)
 
 ---
 
