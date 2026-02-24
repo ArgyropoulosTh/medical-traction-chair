@@ -60,8 +60,8 @@ The therapeutic chair was designed to deliver controlled lumbar traction while m
 * structural support frame
 * clinician-informed ergonomics
 
-🖼 *Add full chair render or prototype*
-![Traction chair overview](assets/images/traction-chair-overview.png)
+
+![Traction chair overview](assets/images/Traction_Chair.png)
 
 ---
 
@@ -85,13 +85,9 @@ Key engineering considerations included:
 * frame stiffness and stability
 * adjustability for different users
 * manufacturability
+  
+![Traction chair overview](assets/images/CAD-chair.png)
 
-🖼 *Add CAD views*
-
-<p>
-  <img src="assets/images/traction-chair-cad-1.png" width="49%"/>
-  <img src="assets/images/traction-chair-cad-2.png" width="49%"/>
-</p>
 
 ---
 
@@ -123,18 +119,6 @@ Validation activities included:
 * Achieved clinically informed ergonomic design
 * Delivered manufacturable system architecture
 * Awarded **1st place** among 12 teams
-
----
-
-## 🎥 Media
-
-### Quick Preview
-
-![Demo](assets/gifs/traction-chair-demo.gif)
-
-### Full Demonstration
-
-[▶️ Watch full video](assets/videos/traction-chair-demo.mp4)
 
 ---
 
