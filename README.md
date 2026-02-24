@@ -1,5 +1,3 @@
-# medical-traction-chair
-
 # Medical Traction Chair
 
 Therapeutic medical device designed to apply controlled lumbar traction for patients with lower back pain, focusing on biomechanical safety, structural integrity, and clinical usability.
